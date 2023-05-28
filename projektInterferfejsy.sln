@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projektInterferfejsy", "projektInterferfejsy\projektInterferfejsy.csproj", "{E6AFA1DC-99B7-4D86-8F01-D8970A65732F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6AFA1DC-99B7-4D86-8F01-D8970A65732F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6AFA1DC-99B7-4D86-8F01-D8970A65732F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6AFA1DC-99B7-4D86-8F01-D8970A65732F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6AFA1DC-99B7-4D86-8F01-D8970A65732F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {244CF84C-43E5-4AFF-B1FC-79E3F9C7D0DC}
+	EndGlobalSection
+EndGlobal
